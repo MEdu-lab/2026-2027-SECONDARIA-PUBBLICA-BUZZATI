@@ -83,8 +83,22 @@ jobs:
         branch: ${{ github.ref_name }}
         pull: true
 
+    # Il dispatch verso il sito di presentazione richiede il secret di repo
+    # PRESENTATION_DISPATCH_TOKEN. Il contesto `secrets` non e' utilizzabile
+    # nella `if` di uno step, quindi la presenza del token viene prima
+    # trasformata in una variabile d'ambiente: se il secret non e'
+    # configurato lo step viene saltato invece di fallire.
+    - name: Verifica presenza del token di dispatch
+      run: |
+        if [ -n "${{ secrets.PRESENTATION_DISPATCH_TOKEN }}" ]; then
+          echo "HAS_DISPATCH_TOKEN=true" >> $GITHUB_ENV
+        else
+          echo "HAS_DISPATCH_TOKEN=false" >> $GITHUB_ENV
+          echo "::notice::PRESENTATION_DISPATCH_TOKEN non configurato: il rebuild di medulab-presentation viene saltato."
+        fi
+
     - name: Trigger presentation site rebuild
-      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push' && env.HAS_DISPATCH_TOKEN == 'true'
       uses: peter-evans/repository-dispatch@v3
       with:
         token: ${{ secrets.PRESENTATION_DISPATCH_TOKEN }}
