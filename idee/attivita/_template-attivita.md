@@ -34,4 +34,4 @@ Che cosa resta dopo: un materiale sonoro da riusare, una partitura, una sezione 
 
 ## Provata il
 
-Collegamento alla voce di diario dell'incontro in cui è stata usata, e com'è andata.
+Collegamento al resoconto dell'incontro in cui è stata usata, e com'è andata.

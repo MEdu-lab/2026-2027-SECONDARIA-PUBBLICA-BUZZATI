@@ -12,8 +12,4 @@ Il magazzino del laboratorio: attività da provare, strumenti da costruire, asco
 
 Un file per idea, nome descrittivo in minuscolo con i trattini: `attivita/partitura-grafica-dal-paesaggio-sonoro.md`. Per attività e costruzioni ci sono dei template da copiare, così le schede restano confrontabili tra loro.
 
-Un'idea provata in classe va collegata alla voce di [diario](../diario) dell'incontro in cui l'hai usata, e viceversa: è così che il magazzino si trasforma in esperienza.
-
-## Diritti dei materiali
-
-Attenzione a cosa si copia qui dentro, perché il repository è pubblico: testi di canzoni, spartiti e scansioni di libri non si possono ripubblicare. Negli ascolti e nei riferimenti bibliografici metti **titolo, autore e link**, non il contenuto.
+Un'idea provata in classe va collegata al [resoconto](../resoconti) dell'incontro in cui l'hai usata, e viceversa: è così che il magazzino si trasforma in esperienza.

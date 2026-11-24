@@ -5,10 +5,10 @@ name: Assembla Documento con Template
 on:
   push:
     branches: [ main ]
-    # Il PDF dipende solo da config.yml e docs/sezioni: diario, idee e
+    # Il PDF dipende solo da config.yml e docs/sezioni: resoconti, idee e
     # materiali non devono far ripartire la compilazione LaTeX.
     paths-ignore:
-      - 'diario/**'
+      - 'resoconti/**'
       - 'idee/**'
       - 'materiali/**'
       

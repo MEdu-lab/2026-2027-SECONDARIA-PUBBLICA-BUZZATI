@@ -409,9 +409,10 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,latex,lilypond,cmake
 
 ### Laboratorio: registrazioni e progetti audio ###
-# Le tracce registrate in classe restano fuori dal repository: sono pesanti
-# e possono contenere le voci degli studenti, mentre questo repo e' pubblico.
-# Nel diario va solo il riferimento all'archivio.
+# Git non gestisce bene i file binari grossi: una volta committati restano
+# nella storia per sempre e appesantiscono ogni clone, anche dopo essere
+# stati cancellati. Le registrazioni vanno in un archivio a parte, e nel
+# resoconto dell'incontro si mette il riferimento.
 *.wav
 *.aif
 *.aiff

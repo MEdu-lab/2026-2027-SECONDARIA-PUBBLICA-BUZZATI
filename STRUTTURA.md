@@ -22,11 +22,7 @@ ed è anche scaricabile come artifact della build.
 | Percorso | Cosa è |
 | --- | --- |
 | [`materiali/`](materiali) | Documenti pronti all'uso: locandina per le famiglie, questionario di inizio corso |
-| [`diario/`](diario) | Una voce per incontro: cosa si è fatto, cosa ha funzionato, cosa riprendere |
+| [`resoconti/`](resoconti) | Un resoconto per incontro: cosa si è fatto, cosa ha funzionato, cosa riprendere |
 | [`idee/`](idee) | Magazzino di attività, strumenti da costruire e ascolti da proporre |
 
 Queste tre cartelle non entrano nel PDF e non fanno ripartire la compilazione: il workflow le esclude esplicitamente.
-
-## Promemoria: il repository è pubblico
-
-Non vanno committati nomi e cognomi degli studenti, informazioni personali, registrazioni audio o video (già bloccate dal `.gitignore`), testi di canzoni e spartiti protetti dal diritto d'autore. La storia di git conserva i file anche dopo la cancellazione, quindi la cautela va esercitata **prima** del commit.

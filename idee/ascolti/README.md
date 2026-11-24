@@ -10,5 +10,3 @@ Per ogni ascolto conviene annotare quattro cose:
 - **Cosa chiedere** — la domanda da fare dopo l'ascolto, che è la parte che decide se l'ascolto funziona o cade nel vuoto
 
 Vale la pena coprire territori diversi: musica concreta e paesaggio sonoro, minimalismo e processi ripetitivi, improvvisazione libera, elettronica da club, e musica che i ragazzi già ascoltano — riletta però con le orecchie del laboratorio.
-
-**Non caricare qui file audio né testi di canzoni:** il repository è pubblico e quei materiali sono protetti dal diritto d'autore. Solo riferimenti e link.

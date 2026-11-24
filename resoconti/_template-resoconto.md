@@ -15,11 +15,11 @@ Momenti in cui il gruppo era dentro l'attività. Annota *perché*, non solo *che
 
 ## Cosa non ha funzionato
 
-Attività cadute, consegne non capite, cali di attenzione, problemi tecnici. Senza giri di parole — questo file lo leggi tu.
+Attività cadute, consegne non capite, cali di attenzione, problemi tecnici.
 
 ## Osservazioni sul gruppo
 
-Dinamiche, ruoli che stanno emergendo, chi si sta prendendo spazio e chi ne resta fuori. **Iniziali o ruoli, non nomi completi:** il repository è pubblico.
+Dinamiche, ruoli che stanno emergendo, chi si sta prendendo spazio e chi ne resta fuori.
 
 ## Materiali e strumenti usati
 
@@ -32,4 +32,4 @@ Cosa è servito davvero, cosa è mancato, cosa portare la prossima volta.
 
 ## Tracce audio / registrazioni
 
-Cosa è stato registrato e dove è archiviato. **I file audio non vanno in questo repository** (sono pesanti e possono contenere voci degli studenti): qui va solo il riferimento all'archivio.
+Cosa è stato registrato e dove è archiviato. I file audio restano fuori dal repository (git gestisce male i binari grossi): qui va il riferimento all'archivio.
