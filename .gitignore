@@ -407,3 +407,21 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,latex,lilypond,cmake
+
+### Laboratorio: registrazioni e progetti audio ###
+# Le tracce registrate in classe restano fuori dal repository: sono pesanti
+# e possono contenere le voci degli studenti, mentre questo repo e' pubblico.
+# Nel diario va solo il riferimento all'archivio.
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.als
+*.flp
+*.logicx
+*.ptx
+*.rpp
+*.aup3
