@@ -1,0 +1,51 @@
+# Informazioni generali progetto
+progetto:
+  titolo: "Play Your Sound"
+  gruppo: "MEduLab"
+  sottotitolo: "Scuola Secondaria di I grado IC Largo Dino Buzzati"
+  anno_scolastico: "2026/2027"
+  tipo_scuola: "pubblica"
+
+# Informazioni sui maestri
+maestri:
+  - nome: "Pietro Barale"
+    ruolo: "operatore"
+    qualifica: "diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia, Roma"
+
+# Dettagli del corso
+corso:
+  tipologia: "musica d'insieme"
+  fascia_eta: "11-13 anni"
+  durata_incontro: "2 ore"
+  frequenza: "settimanale"
+  partecipanti_max: 20
+  numero_settimane: 15
+  periodo: "secondo quadrimestre"
+
+# Metodologia
+metodologia:
+  focus_principale: "ascolto e improvvisazione"
+  approccio: "laboratoriale e partecipativo"
+  personalizzazione: true
+  feedback_continuo: true
+
+# Programmazione temporale
+# Scuola pubblica: lo script non esegue calcoli automatici su queste date,
+# i valori qui sotto sono usati direttamente nel testo delle sezioni.
+programmazione:
+  giorno_settimana: "venerdì"
+  orario: "14:00 - 16:00"
+  inizio: "2026-11-27"
+  inizio_testo: "venerdì 27 novembre 2026"
+
+# Esito del percorso
+esito: "Performance finale aperta alla comunità scolastica, costruita dagli studenti a partire dai materiali raccolti e creati durante gli incontri"
+
+# Materiali allegati (cartella materiali/)
+materiali:
+  - nome: "Locandina del corso"
+    file: "materiali/locandina-play-your-sound-2026-2027.pdf"
+    uso: "diffusione alle famiglie e affissione a scuola"
+  - nome: "Questionario di inizio corso"
+    file: "materiali/questionario-inizio-corso-2026-2027.pdf"
+    uso: "rilevazione iniziale di strumenti, gusti e aspettative degli studenti"
