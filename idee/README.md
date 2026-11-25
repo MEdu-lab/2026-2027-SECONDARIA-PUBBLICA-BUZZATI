@@ -1,6 +1,6 @@
 # Idee e materiali
 
-Il magazzino del laboratorio: attività da provare, ascolti da proporre. A differenza di [`docs/sezioni/`](../docs/sezioni) — che è il progetto formale, quello che va in PDF e che la scuola legge — qui dentro si sta larghi: appunti, idee a metà, cose che forse non si faranno mai.
+Il magazzino del laboratorio: attività da provare, ascolti da proporre. A differenza di [`docs/sezioni/`](../docs/sezioni) — che è il progetto formale — qui dentro si sta larghi: appunti, idee a metà, cose che forse non si faranno mai.
 
 | Cartella | Cosa contiene |
 | --- | --- |
