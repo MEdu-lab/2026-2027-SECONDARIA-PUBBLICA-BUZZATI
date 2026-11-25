@@ -109,6 +109,4 @@ Questa pluralità di strumenti consente un'esperienza **inclusiva, creativa e in
 
 ---
 
-I materiali di accompagnamento del laboratorio — locandina per le famiglie e questionario di inizio corso — sono raccolti nella cartella `materiali/` del repository del progetto.
-
 
