@@ -18,7 +18,7 @@ Data in formato `AAAA-MM-GG`, così i file si ordinano da soli in ordine cronolo
 
 | # | Data | Resoconto |
 | --- | --- | --- |
-| 01 | venerdì 27 novembre 2026 | |
+| 01 | venerdì 27 novembre 2026 | [resoconto](2026-11-27-incontro-01.md) |
 | 02 | venerdì 4 dicembre 2026 | |
 | 03 | venerdì 11 dicembre 2026 | |
 | 04 | venerdì 18 dicembre 2026 | |
