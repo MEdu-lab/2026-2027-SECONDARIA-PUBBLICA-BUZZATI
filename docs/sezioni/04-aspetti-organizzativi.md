@@ -18,5 +18,3 @@
 \vspace{.3cm}
 
 ---
-
-I materiali di accompagnamento del laboratorio — locandina per le famiglie e questionario di inizio corso — sono raccolti nella cartella `materiali/` del repository del progetto.
