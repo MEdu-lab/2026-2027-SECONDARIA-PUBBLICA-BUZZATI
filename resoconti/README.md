@@ -33,6 +33,6 @@ Data in formato `AAAA-MM-GG`, così i file si ordinano da soli in ordine cronolo
 | 12 | venerdì 26 febbraio 2027 | |
 | 13 | venerdì 5 marzo 2027 | |
 | 14 | venerdì 12 marzo 2027 | |
-| 15 | venerdì 19 marzo 2027 | performance finale |
+| 15 | venerdì 19 marzo 2027 | |
 
 Man mano che scrivi i resoconti, metti il link nella colonna di destra.
