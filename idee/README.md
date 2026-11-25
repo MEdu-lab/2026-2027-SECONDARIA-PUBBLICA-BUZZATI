@@ -5,7 +5,6 @@ Il magazzino del laboratorio: attività da provare, strumenti da costruire, asco
 | Cartella | Cosa contiene |
 | --- | --- |
 | [`attivita/`](attivita) | Schede delle singole attività: consegna, tempi, materiali, varianti |
-| [`costruzioni/`](costruzioni) | Strumenti e oggetti sonori da autocostruire, con materiali e procedimento |
 | [`ascolti/`](ascolti) | Brani ed esempi da far ascoltare, con il perché e a che punto del percorso |
 
 ## Come si usa
