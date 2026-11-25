@@ -32,4 +32,4 @@ Cosa è servito davvero, cosa è mancato, cosa portare la prossima volta.
 
 ## Tracce audio / registrazioni
 
-Cosa è stato registrato e dove è archiviato. I file audio restano fuori dal repository (git gestisce male i binari grossi): qui va il riferimento all'archivio.
+Cosa è stato registrato e dove è archiviato. I file audio restano fuori dal repository - link eventuale di internet archive
