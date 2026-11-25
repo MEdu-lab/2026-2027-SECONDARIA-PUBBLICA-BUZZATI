@@ -4,10 +4,10 @@ Un resoconto per ogni incontro: cosa si è fatto, cosa ha funzionato, cosa ripre
 
 ## Come si aggiunge un resoconto
 
-Copia [`_template-resoconto.md`](_template-resoconto.md) e rinominalo con data e numero dell'incontro:
+Copia [`_template-resoconto.md`](_template-resoconto.md), rinominalo con data e numero dell'incontro e salvalo dentro [`archivio/`](archivio):
 
 ```
-resoconti/2026-11-27-incontro-01.md
+resoconti/archivio/2026-11-27-incontro-01.md
 ```
 
 Data in formato `AAAA-MM-GG`, così i file si ordinano da soli in ordine cronologico. Il numero progressivo conta gli incontri effettivi, non le settimane di calendario.
@@ -18,7 +18,7 @@ Data in formato `AAAA-MM-GG`, così i file si ordinano da soli in ordine cronolo
 
 | # | Data | Resoconto |
 | --- | --- | --- |
-| 01 | venerdì 27 novembre 2026 | [resoconto 1 ](2026-11-27-incontro-01.md) |
+| 01 | venerdì 27 novembre 2026 | [resoconto 1](archivio/2026-11-27-incontro-01.md) |
 | 02 | venerdì 4 dicembre 2026 | |
 | 03 | venerdì 11 dicembre 2026 | |
 | 04 | venerdì 18 dicembre 2026 | |
@@ -35,4 +35,8 @@ Data in formato `AAAA-MM-GG`, così i file si ordinano da soli in ordine cronolo
 | 14 | venerdì 12 marzo 2027 | |
 | 15 | venerdì 19 marzo 2027 | |
 
-Man mano che scrivi i resoconti, metti il link nella colonna di destra.
+Man mano che scrivi i resoconti, metti il link nella colonna di destra. I file stanno in `archivio/`, mentre questo indice sta un livello sopra: il percorso va quindi scritto con il nome della cartella davanti, come nella riga 01.
+
+```
+| 02 | venerdì 4 dicembre 2026 | [resoconto 2](archivio/2026-12-04-incontro-02.md) |
+```
